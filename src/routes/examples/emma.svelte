@@ -5,7 +5,7 @@
     let src="https://hundepower.de/wp-content/uploads/2019/10/Beagle.jpg";
 </script>
 
-<main class="container mx-auto bg-red-400 flex flex-col items-center">
+<main class="container mx-auto bg-red-300 flex flex-col items-center">
 <h1 class="heading">
     Wilkommen auf {name} Test Seite!
 </h1>
