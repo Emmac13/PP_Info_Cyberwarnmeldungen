@@ -6,6 +6,7 @@
     <a class= "text-caret-violet-400 underline hover:no-underline hover:(caret-violet-300)" href="/examples/Lisa">Lisas Seite</a>
     <a class="bg-green-300 text-green-700 rounded-xl hover:(text-black bg-orange-500)" href="/examples/phil">phils Seite </a>
     <a class= "bg-blue-200 text-yellow-200 rounded-md hover:(text-white)" href="/examples/Lea">Leas Seite</a> 
+    <a class= "bg-red-400 text-green-200 rounded-none hover:(text-black)" href="/examples/emma">Emmas Seite</a> 
 
 </nav>
     
